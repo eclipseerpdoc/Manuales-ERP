@@ -7,8 +7,5 @@ En este apartado verás el índice de la documentación relacionada con la gesti
 ## 📂 Módulos disponibles
 
 ## 💡 Verifactu - Normativa y Procedimientos especiales
-➡️ [Ir procedimientos Veri*Factu](gestion/verifactu.md)
+➡️ [Ir procedimientos Veri*Factu](Verifactu/verifactu.md)
 
-### 💼 Gestión Comercial
-Documentación relacionada con la gestión comercial.  
-➡️ [Ir al manual de la gestión](gestion/indice.md)
