@@ -5,6 +5,9 @@ En este apartado diversos tips que te ayudarán en la transición hacia verifact
 ### 💡 Nuestro Compromiso: Solo Software VERIFACTU (Verificable en Tiempo Real)
 ➡️ [Ir a Nuestro Compromiso: Solo Software VERIFACTU](VF_compromiso_verifactu.md)
 
+### 💡 ¿Estás preparado para la conexión con Veri*Factu? Checklist final antes de la conexión real
+➡️ [Ir a Checklist final antes de la conexión real](VF_checklist_conexion.md)
+
 ---
 
 ## 📂 Tips y Trucos Veri*Factu
