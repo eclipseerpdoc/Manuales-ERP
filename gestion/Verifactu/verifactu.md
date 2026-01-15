@@ -22,3 +22,5 @@ En este apartado diversos tips que te ayudarán en la transición hacia verifact
 ➡️ [Ir a la impresión de una factura rectificativa](VF_factura_rectificativa_impresion.md)
 ### 💡 ¿Qué hacer si una factura de venta enviada contiene errores?
 ➡️ [Ir subsanaciones y errores en Veri*Factu](VF_factura_subsanacion.md)
+### 💡 Diferencias entre fecha de emision y fecha de operación?
+➡️ [Diferencias entre fecha de emision y fecha de operación](VF_factura_fecha_emision_vs_fecha_operacion.md)
