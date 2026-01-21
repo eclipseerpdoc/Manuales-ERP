@@ -7,3 +7,5 @@ En este apartado te mostramos diversos tips y funciones que facilitarán tu trab
 
 ### 💡 Trazabilidad de documentos
 ➡️ [Ir a trazabilidad de documentos](trazabilidad_docs.md)
+
+
