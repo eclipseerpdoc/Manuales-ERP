@@ -4,3 +4,6 @@ En este apartado te mostramos las preguntas frecuentes relacionadas con la gesti
 
 ### 💡 “Mis facturas han desaparecido de la lista de facturas emitidas, ¿qué ha pasado?”
 ➡️ [“Mis facturas han desaparecido de la lista de facturas emitidas, ¿qué ha pasado?”](desaparcion_docs.md)
+
+### 💡 “Numeración de facturas al cambiar de año”
+➡️ [“Numeraciónd de facturas”](numeracion_docs.md)
