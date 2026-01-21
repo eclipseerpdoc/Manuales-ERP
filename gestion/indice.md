@@ -9,3 +9,6 @@ En este apartado verás el índice de la documentación relacionada con la gesti
 ## 💡 Verifactu - Normativa y Procedimientos especiales
 ➡️ [Ir procedimientos Veri*Factu](Verifactu/verifactu.md)
 
+## 💡 Tips y funciones especiales
+➡️ [Ir tips y funciones especiales](funciones/indice_funciones.md)
+

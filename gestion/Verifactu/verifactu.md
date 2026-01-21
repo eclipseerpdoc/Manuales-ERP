@@ -14,12 +14,14 @@ En este apartado diversos tips que te ayudarán en la transición hacia verifact
 
 ### 💡 Cambios en la operativa de Eclipse ERP conforme a la normativa Veri*Factu
 ➡️ [Ir Cambios en la operativa de Eclipse ERP conforme a la normativa Veri*Factu](VF_cambios_operativa.md)
+### 💡 Diferencias entre una factura y un borradodor de factura
+➡️ [Ir  Diferencias entre una factura y un borradodor de factura](VF_factura_vs_borrador.md)
 ### 💡 Crear una factura rectificativa
 ➡️ [Ir Facturas rectificativas en Veri*Factu](VF_factura_rectificativa.md)
-### 💡 Actualizar datos fiscalmente no relevantes en facturas emitidas
-➡️ [Ir Actualización de datos fiscalmente no relevantes en facturas emitidas en Veri*Factu](VF_factura_actualizacion_datos.md)
 ### 💡 Imprimir una factura rectificativa
 ➡️ [Ir a la impresión de una factura rectificativa](VF_factura_rectificativa_impresion.md)
+### 💡 Actualizar datos fiscalmente no relevantes en facturas emitidas
+➡️ [Ir Actualización de datos fiscalmente no relevantes en facturas emitidas en Veri*Factu](VF_factura_actualizacion_datos.md)
 ### 💡 ¿Qué hacer si una factura de venta enviada contiene errores?
 ➡️ [Ir subsanaciones y errores en Veri*Factu](VF_factura_subsanacion.md)
 ### 💡 Diferencias entre fecha de emision y fecha de operación?
