@@ -12,3 +12,5 @@ En este apartado verás el índice de la documentación relacionada con la gesti
 ## 💡 Tips y funciones especiales
 ➡️ [Ir tips y funciones especiales](funciones/indice_funciones.md)
 
+## 💡 FAQ - Preguntas frecuentes
+➡️ [Ir a FAQ - Preguntas frecuentes](FAQ/indice_FAQ.md)

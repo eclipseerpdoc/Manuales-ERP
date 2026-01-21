@@ -45,7 +45,7 @@ Al pulsar el botón ⚡, se muestra un **selector de origen**, donde el usuario 
 
 Una vez seleccionado el origen deseado, se debe pulsar el botón **Seleccionar**.
 
-![Botón rayo](../imagenes/ges_rayo.png)
+![Botón ver](../imagenes/ges_rayo.png)
 
 ---
 
